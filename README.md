@@ -1,4 +1,4 @@
-# My Readme
+# Jason Morris
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/jasonmgh.gif?z=6)](https://github4life.herokuapp.com/jasonmgh)
 [credit](https://github.com/ethomson/ethomson/blob/master/README.md)
