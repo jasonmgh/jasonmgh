@@ -1,27 +1,13 @@
 # My Readme
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/jasonmgh.gif?z=1)](https://github4life.herokuapp.com/jasonmgh)
-
 [credit](https://github.com/ethomson/ethomson/blob/master/README.md)
 
-👋 Staff Software Engineer [@nytimes](https://github.com/nytimes/). Previously [@squareup](https://github.com/squareup/), [@vmware](https://github.com/vmware/). 📰
+👋 Staff Software Engineer [@nytimes](https://github.com/nytimes/). 📰
 
 😄 Developer Productivity advocate. Distsys nerd. 💻
 
-```
-                                ,_---~~~~~----._         
-                                _,,_,*^____      _____``*g*\"*, 
-                                / __/ /'     ^.  /      \ ^@q   f 
-                                [  @f | @))    |  | @))   l  0 _/  
-        _~^~^~_                \`/   \~____ / __ \_____/    \   
-    \) /  o o  \ (/                |           _l__l_           I   
-      '_   -   _'                }          [______]           I  
-      / '-----' \                ]            | | |            |  
-                                ]             ~ ~             |  
-                                |                            |   
-                                 |                           |   
-
-```
+Previously [@squareup](https://github.com/squareup/), [@vmware](https://github.com/vmware/). 
 
 <!--
 ### Hi there 👋
