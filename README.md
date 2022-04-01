@@ -8,6 +8,47 @@
 
 😄 Developer Productivity advocate. Distsys nerd. 💻
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
 <!--
 ### Hi there 👋
 
