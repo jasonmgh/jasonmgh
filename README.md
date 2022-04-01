@@ -1,6 +1,6 @@
 # My Readme
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/jasonmgh.gif?z=1)](https://github4life.herokuapp.com/jasonmgh)
+[![GitHub Game of Life](https://github4life.herokuapp.com/jasonmgh.gif?z=6)](https://github4life.herokuapp.com/jasonmgh)
 [credit](https://github.com/ethomson/ethomson/blob/master/README.md)
 
 👋 Staff Software Engineer [@nytimes](https://github.com/nytimes/). 📰
