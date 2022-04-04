@@ -1,13 +1,10 @@
 # Jason Morris
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/jasonmgh.gif?z=6)](https://github4life.herokuapp.com/jasonmgh)
-[credit](https://github.com/ethomson/ethomson/blob/master/README.md)
 
-👋 Staff Software Engineer [@nytimes](https://github.com/nytimes/). 📰
+📰 Staff Software Engineer, Developer Productivity at [@nytimes](https://github.com/nytimes/). 
 
-😄 Developer Productivity advocate. Distsys nerd. 💻
-
-Previously [@squareup](https://github.com/squareup/), [@vmware](https://github.com/vmware/). 
+I used to scale infrastructure at [@squareup](https://github.com/squareup/), [@vmware](https://github.com/vmware/). 
 
 <!--
 ### Hi there 👋
