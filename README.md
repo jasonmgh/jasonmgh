@@ -1,10 +1,14 @@
-# Jason Morris
+## Hello there 👋
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/jasonmgh.gif?z=6)](https://github4life.herokuapp.com/jasonmgh)
 
-📰 Staff Software Engineer, Developer Productivity at [@nytimes](https://github.com/nytimes/). 
+Staff Software Engineer improving Developer velocity 🏃 at [@nytimes](https://github.com/nytimes/). 📰 
 
-I used to scale infrastructure at [@squareup](https://github.com/squareup/), [@vmware](https://github.com/vmware/). 
+### History
+
+I used to scale on prem [orchestration](https://github.com/square/p2) and cloud ☁️ infrastructure at [@squareup](https://github.com/squareup/). 
+
+Before that I enganged in [container 🚢 espionage](https://github.com/vmware/vic) at [@vmware](https://github.com/vmware/). 
 
 <!--
 ### Hi there 👋
