@@ -1,8 +1,6 @@
 ## Hello there 👋
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/jasonmgh.gif?z=6)](https://github4life.herokuapp.com/jasonmgh)
-
-Staff Software Engineer shepherding developer experience at [@nytimes](https://github.com/nytimes/). 📰 
+I'm a currently a Staff Software Engineer shepherding developer experience at [@nytimes](https://github.com/nytimes/). 📰 
 
 ### History
 
