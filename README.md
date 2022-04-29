@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a currently a Staff Software Engineer shepherding developer experience at [@nytimes](https://github.com/nytimes/). 📰 
+I'm currently a Staff Software Engineer shepherding developer experience at [@nytimes](https://github.com/nytimes/). 📰 
 
 ### History
 
